@@ -67,7 +67,6 @@ npm install
 ```env
 MONGO_DB_URL=mongodb://localhost:27017/backend-ledger
 JWT_SECRET=your_super_secret_key
-PORT=3000
 ```
 
 ## Running the Project
